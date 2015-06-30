@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Alex Kaul",
+    "email": "alexkaul@googlemail.com"
+  },
+  "main": "ng-img-crop.js",
+  "name": "ng-img-crop",
+  "version": "0.3.2",
+  "description": "Image crop directive for AngularJS",
+  "license": "MIT",
+  "homepage": "https://github.com/alexk111/ngImgCrop"
+}
